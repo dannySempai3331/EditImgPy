@@ -5,6 +5,9 @@ import numpy as np
 import random
 import threading
 from math import floor
+"""Hecho por:
+Kenneth Kael Mendoza Pliego
+José Daniel Pérez Mejía"""
 
 loading_gif = None
 loading_gif_frames = []   

@@ -1,3 +1,7 @@
+"""Hecho por:
+Kenneth Kael Mendoza Pliego
+José Daniel Pérez Mejía"""
+
 COLOR_BARRA_SUPERIOR = "#1f2329"
 COLOR_BARRA_LATERAL = "#2a3138"
 COLOR_CUERPO_PRINCIPAL = "#f1faff"

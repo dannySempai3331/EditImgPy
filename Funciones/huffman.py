@@ -5,6 +5,10 @@ from tkinter import filedialog
 import heapq
 import pickle
 
+"""Hecho por:
+Kenneth Kael Mendoza Pliego
+José Daniel Pérez Mejía"""
+
 class Nodo:
     def __init__(self, frequency, color, left=None, right=None):
         self.frequency = frequency

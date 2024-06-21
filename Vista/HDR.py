@@ -6,6 +6,10 @@ from util.utilIcons import abrirIcono, ajustarIcono
 
 from Funciones.hdr import genHdrImg
 
+"""Hecho por:
+Kenneth Kael Mendoza Pliego
+José Daniel Pérez Mejía"""
+
 class VentanaHDR(tk.Toplevel):
     def __init__(self):
         super().__init__()

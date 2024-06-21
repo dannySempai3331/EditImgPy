@@ -3,6 +3,10 @@ from PIL import Image, ImageDraw, ImageTk
 from tkinter import messagebox
 import numpy as np
 
+"""Hecho por:
+Kenneth Kael Mendoza Pliego
+José Daniel Pérez Mejía"""
+
 coordenadasSeleccionadas = []
 
 def pintarConRegion(event, size):

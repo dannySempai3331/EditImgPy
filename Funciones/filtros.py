@@ -1,5 +1,9 @@
 from PIL import ImageFilter
 
+"""Hecho por:
+Kenneth Kael Mendoza Pliego
+José Daniel Pérez Mejía"""
+
 def desenfoque(img):
     imgDesenfocada = img.filter(ImageFilter.GaussianBlur(4))
     return imgDesenfocada

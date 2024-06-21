@@ -1,5 +1,9 @@
 import platform, os, datetime
 
+"""Hecho por:
+Kenneth Kael Mendoza Pliego
+José Daniel Pérez Mejía"""
+
 def getOS():
     return platform.system()
 

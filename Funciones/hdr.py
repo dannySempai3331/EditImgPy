@@ -2,6 +2,10 @@ from PIL import Image
 from tkinter import messagebox
 import numpy as np
 
+"""Hecho por:
+Kenneth Kael Mendoza Pliego
+José Daniel Pérez Mejía"""
+
 imgHdr = None
 
 def genHdrImg(listaPaths):

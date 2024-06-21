@@ -2,6 +2,10 @@ from PIL import ImageOps, Image
 from util.utilImg import estaAColor
 import numpy as np
 
+"""Hecho por:
+Kenneth Kael Mendoza Pliego
+José Daniel Pérez Mejía"""
+
 def ecualizar(img):
     imgEc = ImageOps.equalize(img)
     return imgEc

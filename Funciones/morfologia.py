@@ -1,4 +1,7 @@
 from PIL import  ImageOps, ImageFilter, ImageChops
+"""Hecho por:
+Kenneth Kael Mendoza Pliego
+José Daniel Pérez Mejía"""
 
 def binarizar(img):
     return img.convert('L')

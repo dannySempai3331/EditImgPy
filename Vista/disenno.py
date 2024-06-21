@@ -18,6 +18,10 @@ from Funciones.huffman import comprimir
 from Vista.HDR import VentanaHDR
 import threading
 
+"""Hecho por:
+Kenneth Kael Mendoza Pliego
+José Daniel Pérez Mejía"""
+
 class Principal(tk.Tk):
 
     primeraCarga = False

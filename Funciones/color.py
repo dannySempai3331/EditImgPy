@@ -2,6 +2,10 @@ import tkinter as tk
 from PIL import Image, ImageOps
 from util.utilImg import estaAColor
 
+"""Hecho por:
+Kenneth Kael Mendoza Pliego
+José Daniel Pérez Mejía"""
+
 def sepiaCalido(img):
     anchura, altura = img.size
     imagenSepiaCalido = Image.new("RGB", (anchura, altura))

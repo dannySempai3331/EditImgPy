@@ -2,6 +2,10 @@ import tkinter as tk
 from PIL import Image, ImageTk, ImageDraw, ImageOps, ImageEnhance, ImageFilter
 import math
 
+"""Hecho por:
+Kenneth Kael Mendoza Pliego
+José Daniel Pérez Mejía"""
+
 offset = 10
 
 def brillo(img,brillo):

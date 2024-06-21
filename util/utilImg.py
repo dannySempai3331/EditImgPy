@@ -5,6 +5,10 @@ import matplotlib.pyplot as plt
 from io import BytesIO
 from Funciones.huffman import descomprimir
 
+"""Hecho por:
+Kenneth Kael Mendoza Pliego
+José Daniel Pérez Mejía"""
+
 def cargarImagen():
     os = getOS()
     if os == "Linux":

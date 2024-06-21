@@ -1,3 +1,6 @@
+"""Hecho por:
+Kenneth Kael Mendoza Pliego
+José Daniel Pérez Mejía"""
 def centrarVentana(ventana, appAncho, appLargo):
     pantallaAncho = ventana.winfo_screenwidth()
     pantallaLargo = ventana.winfo_screenheight()
